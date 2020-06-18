@@ -1,0 +1,5 @@
+package com.river.controller;
+
+public class UserController {
+
+}

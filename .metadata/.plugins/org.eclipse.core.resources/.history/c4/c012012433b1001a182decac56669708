@@ -1,0 +1,5 @@
+package com.river.model;
+
+public class User {
+
+}
